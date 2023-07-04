@@ -2,8 +2,5 @@
 
 Este repositorio de la liga de la justicia
 
-## Notas 
-
-### Actualizado desde git hub
-
-hola mundo te estoy cambiando
+## Estos cambios son nuevos
+vamos a subir algo distinto
